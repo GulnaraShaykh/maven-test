@@ -7,6 +7,12 @@
     <list default="true" id="d2ffeef8-294d-4149-90d3-fb104280def1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Games/Games/src/main/GameInstaller.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Games/Games/src/main/GameProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-test/db/src/main/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-test/db/src/main/DbSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-test/db/src/main/MyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-test/service/src/main/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle-test/service/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
